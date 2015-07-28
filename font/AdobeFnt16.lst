@@ -4,15 +4,15 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\Indus\Documents\JS.ORG\logo\Font\jsorg.eot
-FileModTime:1428409187
+OutlineFileName:C:\Users\42o8o\JS.ORG\logo\Font\jsorg.eot
+FileModTime:1438114771
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\Indus\Documents\JS.ORG\logo\Font\jsorg.svg
-FileModTime:1428409187
+OutlineFileName:C:\Users\42o8o\JS.ORG\logo\Font\jsorg.svg
+FileModTime:1438114771
 %EndFont
 
 %BeginFont
@@ -25,10 +25,10 @@ FullName:jsorg
 MenuName:jsorg
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Indus\Documents\JS.ORG\logo\Font\jsorg.ttf
+OutlineFileName:C:\Users\42o8o\JS.ORG\logo\Font\jsorg.ttf
 DataFormat:sfntData
 FileLength:1976
-FileModTime:1428409187
+FileModTime:1438114771
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -39,14 +39,14 @@ NameArray:0,Win,1,jsorg
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\Indus\Documents\JS.ORG\logo\Font\jsorg.woff
-FileModTime:1428409187
+OutlineFileName:C:\Users\42o8o\JS.ORG\logo\Font\jsorg.woff
+FileModTime:1438114771
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\Indus\Documents\JS.ORG\logo\Font\style.css
-FileModTime:1428409309
+OutlineFileName:C:\Users\42o8o\JS.ORG\logo\Font\style.css
+FileModTime:1438114771
 %EndFont
 
